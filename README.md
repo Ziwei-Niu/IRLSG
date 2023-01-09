@@ -1,2 +1,3 @@
 # IRLSG
-Code will be released publicly
+Code will be released publicly!
+Please waiting！
